@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="52f403f1-ab68-49be-ab58-4b6d57174b89" name="409lab" url="http:///">
+        <fileTransfer rootFolder="/home/cy" accessType="SFTP" host="172.17.173.22" port="22" sshConfigId="6afab63d-f0ce-4405-b57e-5ba8b7e74268" sshConfig="cy@172.17.173.22:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
